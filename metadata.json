@@ -1,0 +1,6 @@
+{
+  "name": "ProCam T3",
+  "description": "Advanced Camera2 application engineered for mobile computational photography and hardware inspection on Vivo T3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

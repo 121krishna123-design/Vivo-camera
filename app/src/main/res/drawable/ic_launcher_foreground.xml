@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Body Frame -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M30,36 C30,32 33,29 37,29 L47,29 L50,33 L58,33 L61,29 L71,29 C75,29 78,32 78,36 L78,72 C78,76 75,79 71,79 L37,79 C33,79 30,76 30,72 Z" />
+    
+    <!-- Metallic Gold Outer Ring -->
+    <path
+        android:pathData="M54,39 A15,15 0 1,1 53.9,39 Z"
+        android:strokeWidth="3"
+        android:strokeColor="#38BDF8"
+        android:fillColor="#0B1120" />
+    
+    <!-- Cyan Inner Lens Glint -->
+    <path
+        android:pathData="M54,45 A9,9 0 1,1 53.9,45 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#F59E0B"
+        android:fillColor="#0284C7" />
+    
+    <!-- Small Sensor Reflection -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,49 A2.5,2.5 0 1,1 50.9,49 Z" />
+
+    <!-- Red Recording / Pro Sensor Dot -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M70,36 A2,2 0 1,1 69.9,36 Z" />
+</vector>
